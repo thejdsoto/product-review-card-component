@@ -29,9 +29,11 @@ Users should be able to:
 ### Screenshot
 
 Desktop preview of the component (1440 pixels and above):
+
 ![](./screenshot-desktop.PNG)
 
 Mobile preview of the component (1440 pixels and below):
+
 ![](./screenshot-mobile.PNG)
 
 

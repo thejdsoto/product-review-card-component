@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -57,11 +56,6 @@ Mobile preview of the component (1440 pixels and below):
 For this small project, I tried my best to structure my HTML as semantic as possible. I also had the opportunity to put my basic CSS skills to use and for the first time try a mobile-first workflow. For more than a year of studying web development, this is my first time using media quesries and other techniques to make a webpage responsive and mobile-friendly.
 
 While this activity helped me reinforce my knowledge in HTML syntax and CSS in general, it also gave me design concepts that could be useful in the future.
-
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
 
 ### Useful resources

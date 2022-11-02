@@ -102,11 +102,11 @@ html {
     }
 
     h1 {
-      margin-bottom: 32px;
+      margin-bottom: 20px;
     }
 
     .item-details p {
-      line-height: 2.0;
+      line-height: 1.6;
     }
 
     .item-details {

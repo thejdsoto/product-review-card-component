@@ -92,7 +92,6 @@ html {
     border-radius: 10px;
     padding: 8px;
     border-style: none;
-    align-self: flex-end;
   }
 
   @media screen and (min-width: 1440px) {
